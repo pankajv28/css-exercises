@@ -1,0 +1,20 @@
+.pink{
+    background-color: rgba(255, 182, 206, 0.959);
+    /* font-size: 18px; */
+}
+
+.pink.cooler{
+    font-size:200%;
+}
+
+#one{
+    color: rgb(0, 0, 0);
+    font-size: 250%;
+}
+
+#another{
+    color: black;
+    font-weight: bold;
+    background-color: rgba(172, 255, 47, 0.897);
+    font-size: 150%;
+}
